@@ -1,3 +1,5 @@
+# View the [live demo](https://cloudwhale-store.github.io/Cloudwhale_Nuxt_3_Demo/)
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
