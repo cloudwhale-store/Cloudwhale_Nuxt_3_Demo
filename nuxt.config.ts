@@ -3,5 +3,9 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     baseURL: '/nuxt-github-pages/' // baseURL: '/<repository>/'
-  }
+  },
+  modules: [
+    '@nuxtjs/tailwindcss',
+    '@pinia/nuxt',
+  ]
 })
